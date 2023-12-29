@@ -17,5 +17,13 @@ body {
 }
 
 .service-head {
-    @apply text-xl text-center font-semibold underline underline-offset-8 mb-5;
+    @apply text-xl text-japonica-800 text-center font-semibold underline underline-offset-8 mb-5;
+}
+
+.advantage {
+    @apply w-5/6 shadow-md rounded-lg border-2 border-japonica-300 py-5 px-4 hover:border-japonica-600;
+}
+
+.advantage-head {
+    @apply text-xl text-japonica-800 font-semibold underline underline-offset-8 mb-5;
 }

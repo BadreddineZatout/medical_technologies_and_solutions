@@ -37,6 +37,7 @@
         </div>
     </div>
     <x-sections.services />
+    <x-sections.advantages />
     <x-layout.footer />
 </body>
 
