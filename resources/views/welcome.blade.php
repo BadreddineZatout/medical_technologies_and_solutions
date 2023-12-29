@@ -36,6 +36,7 @@
             <img src="/images/doctors.png" alt="" />
         </div>
     </div>
+    <x-sections.services />
     <x-layout.footer />
 </body>
 

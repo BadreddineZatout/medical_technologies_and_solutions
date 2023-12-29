@@ -11,3 +11,11 @@ body {
     font-family: "Ubuntu", sans-serif;
     @apply bg-japonica-50;
 }
+
+.service {
+    @apply shadow-md rounded-lg border-2 border-japonica-300 py-5 px-4 hover:border-japonica-600;
+}
+
+.service-head {
+    @apply text-xl text-center font-semibold underline underline-offset-8 mb-5;
+}
