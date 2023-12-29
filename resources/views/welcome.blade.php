@@ -36,6 +36,7 @@
             <img src="/images/doctors.png" alt="" />
         </div>
     </div>
+    <x-layout.footer />
 </body>
 
 </html>
