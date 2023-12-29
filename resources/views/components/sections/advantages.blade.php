@@ -1,4 +1,4 @@
-<div class="mt-10 px-10">
+<div id="advantages" class="mt-10 px-10">
     <h1 class="text-4xl font-bold text-japonica-500 px-10">Nos Avantages</h1>
     <div class="grid grid-cols-1 lg:grid-cols-2 gap-5   mt-10">
         <div class="advantage">
