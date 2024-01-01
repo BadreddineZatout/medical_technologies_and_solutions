@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <title>Medical Technologies & Solutions</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.1/flowbite.min.css" rel="stylesheet" />
     @vite('resources/css/app.css')
 </head>
 
@@ -36,9 +37,11 @@
             <img src="/images/doctors.png" alt="" />
         </div>
     </div>
+    <x-sections.carousel />
     <x-sections.services />
     <x-sections.advantages />
     <x-layout.footer />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.2.1/flowbite.min.js"></script>
 </body>
 
 </html>
