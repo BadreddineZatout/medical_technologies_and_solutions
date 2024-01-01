@@ -1,4 +1,4 @@
-<div id="contact" class="mt-20 px-5 md:px-20 py-10 border-japonica bg-japonica-300">
+<div id="contact" class="mt-20 px-5 md:px-20 py-10 border-japonica bg-japonica-200">
     <div class="flex flex-col sm:flex-row items-start gap-x-5 lg:gap-x-10">
         <div class="w-2/3">
             <img class="h-20 sm:h-fit" src="/images/logo.png" alt="Locapp" />
