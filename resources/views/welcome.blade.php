@@ -13,9 +13,9 @@
 <body class="antialiased">
     <x-layout.header />
     <div
-        class="w-full border-y-2 bg-japonica-100 shadow-lg border-japonica-300 mb-10 px-10 lg:px-20 py-10 flex justify-between items-center">
+        class="w-full border-y-2 bg-royalBlue-100 shadow-lg border-royalBlue-300 mb-10 px-10 lg:px-20 py-10 flex justify-between items-center">
         <div class="w-full lg:w-1/2">
-            <h1 class="text-3xl text-japonica-500 font-bold mb-1">Medical Technologies & Solutions</h1>
+            <h1 class="text-3xl text-royalBlue-500 font-bold mb-1">Medical Technologies & Solutions</h1>
             <h2 class="text-xl font-semibold mb-5">
                 Scanners médicaux, composants matériels et logiciels
             </h2>

@@ -1,5 +1,5 @@
 <div id="products" class="mt-10 px-10">
-    <h1 class="text-4xl font-bold text-japonica-500 px-10">Nos Produits</h1>
+    <h1 class="text-4xl font-bold text-royalBlue-500 px-10">Nos Produits</h1>
     <div id="default-carousel" class="relative w-full mt-10" data-carousel="slide">
         <!-- Carousel wrapper -->
         <div class="relative h-56 overflow-hidden rounded-lg md:h-[40rem]">

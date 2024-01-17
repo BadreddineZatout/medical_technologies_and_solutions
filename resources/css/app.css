@@ -9,21 +9,21 @@ html {
 
 body {
     font-family: "Ubuntu", sans-serif;
-    @apply bg-japonica-50;
+    @apply bg-royalBlue-50;
 }
 
 .service {
-    @apply shadow-md rounded-lg border-2 border-japonica-300 py-5 px-4 hover:border-japonica-600;
+    @apply shadow-md rounded-lg border-2 border-royalBlue-300 py-5 px-4 hover:border-royalBlue-600;
 }
 
 .service-head {
-    @apply text-xl text-japonica-800 text-center font-semibold underline underline-offset-8 mb-5;
+    @apply text-xl text-royalBlue-800 text-center font-semibold underline underline-offset-8 mb-5;
 }
 
 .advantage {
-    @apply w-5/6 shadow-md rounded-lg border-2 border-japonica-300 py-5 px-4 hover:border-japonica-600;
+    @apply w-5/6 shadow-md rounded-lg border-2 border-royalBlue-300 py-5 px-4 hover:border-royalBlue-600;
 }
 
 .advantage-head {
-    @apply text-xl text-japonica-800 font-semibold underline underline-offset-8 mb-5;
+    @apply text-xl text-royalBlue-800 font-semibold underline underline-offset-8 mb-5;
 }
