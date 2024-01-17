@@ -37,6 +37,7 @@
             <img src="/images/doctors.png" alt="" />
         </div>
     </div>
+    <x-sections.products />
     <x-sections.carousel />
     <x-sections.services />
     <x-sections.advantages />
